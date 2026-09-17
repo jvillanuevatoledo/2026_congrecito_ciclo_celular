@@ -1,6 +1,6 @@
 # Taller Práctico: Análisis de Ciclo Celular por Citometría de Flujo
 
-Repositorio oficial del taller práctico enfocado en el análisis e interpretación del **ciclo celular** mediante citometría de flujo utilizando **software de análisis manual**. Este espacio contiene los materiales, guías y conjuntos de datos necesarios para realizar la identificación de poblaciones celulares y el cálculo de fases (G0/G1, S, G2/M).
+Repositorio oficial del taller práctico enfocado en el análisis e interpretación del **ciclo celular** mediante citometría de flujo utilizando **software de análisis manual**.
 
 ## 📂 Estructura del Repositorio
 
