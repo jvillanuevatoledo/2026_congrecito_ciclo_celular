@@ -1,4 +1,4 @@
-# Taller Práctico: Análisis de Ciclo Celular por Citometría de Flujo
+# **ANÁLISIS DE CICLO CELULAR POR CITOMETRÍA DE FLUJO**
 
 Repositorio oficial del taller práctico enfocado en el análisis e interpretación del **ciclo celular** mediante citometría de flujo utilizando **software de análisis manual**.
 
